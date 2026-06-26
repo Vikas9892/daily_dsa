@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Vikas9892/daily_dsa/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
