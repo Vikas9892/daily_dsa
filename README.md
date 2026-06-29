@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Vikas9892/daily_dsa/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Vikas9892/daily_dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
+## Linked List
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Vikas9892/daily_dsa/tree/master/1019-next-greater-node-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Vikas9892/daily_dsa/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Vikas9892/daily_dsa/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
