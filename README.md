@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Math
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
