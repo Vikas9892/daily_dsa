@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vikas9892/daily_dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/Vikas9892/daily_dsa/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/Vikas9892/daily_dsa/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
