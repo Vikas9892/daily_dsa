@@ -82,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Vikas9892/daily_dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Vikas9892/daily_dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Vikas9892/daily_dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Vikas9892/daily_dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
 |  |
 | ------- |
