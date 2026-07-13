@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Vikas9892/daily_dsa/tree/master/0061-rotate-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Vikas9892/daily_dsa/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
