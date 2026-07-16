@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Vikas9892/daily_dsa/tree/master/0131-palindrome-partitioning) |
+## Database
+|  |
+| ------- |
+| [1070-product-sales-analysis-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
