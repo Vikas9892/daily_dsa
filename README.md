@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vikas9892/daily_dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vikas9892/daily_dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
 | [0131-palindrome-partitioning](https://github.com/Vikas9892/daily_dsa/tree/master/0131-palindrome-partitioning) |
 ## Database
 |  |
