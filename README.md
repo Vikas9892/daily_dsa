@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Vikas9892/daily_dsa/tree/master/0074-search-a-2d-matrix) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vikas9892/daily_dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vikas9892/daily_dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vikas9892/daily_dsa/tree/master/0074-search-a-2d-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Vikas9892/daily_dsa/tree/master/0074-search-a-2d-matrix) |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
