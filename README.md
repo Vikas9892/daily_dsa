@@ -139,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0099-recover-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0099-recover-binary-search-tree) |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikas9892/daily_dsa/tree/master/2685-count-the-number-of-complete-components) |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Vikas9892/daily_dsa/tree/master/0068-text-justification) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
