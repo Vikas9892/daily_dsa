@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/Vikas9892/daily_dsa/tree/master/0089-gray-code) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vikas9892/daily_dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Vikas9892/daily_dsa/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/Vikas9892/daily_dsa/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Vikas9892/daily_dsa/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Vikas9892/daily_dsa/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Vikas9892/daily_dsa/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0494-target-sum) |
@@ -228,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Vikas9892/daily_dsa/tree/master/0089-gray-code) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vikas9892/daily_dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
