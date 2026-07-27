@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Vikas9892/daily_dsa/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Vikas9892/daily_dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0132-palindrome-partitioning-ii) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Vikas9892/daily_dsa/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vikas9892/daily_dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Vikas9892/daily_dsa/tree/master/0785-is-graph-bipartite) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Vikas9892/daily_dsa/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vikas9892/daily_dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
