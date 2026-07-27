@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
+| [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Vikas9892/daily_dsa/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vikas9892/daily_dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vikas9892/daily_dsa/tree/master/0044-wildcard-matching) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Vikas9892/daily_dsa/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
+| [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Vikas9892/daily_dsa/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
