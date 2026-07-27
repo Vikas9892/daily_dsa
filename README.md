@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vikas9892/daily_dsa/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Vikas9892/daily_dsa/tree/master/0068-text-justification) |
+| [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
+## Trie
+|  |
+| ------- |
+| [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
 <!---LeetCode Topics End-->
