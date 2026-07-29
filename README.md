@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Vikas9892/daily_dsa/tree/master/1288-remove-covered-intervals) |
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
 | [1765-map-of-highest-peak](https://github.com/Vikas9892/daily_dsa/tree/master/1765-map-of-highest-peak) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vikas9892/daily_dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Vikas9892/daily_dsa/tree/master/0089-gray-code) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vikas9892/daily_dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Design
 |  |
