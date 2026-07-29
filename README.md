@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vikas9892/daily_dsa/tree/master/0044-wildcard-matching) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Vikas9892/daily_dsa/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Vikas9892/daily_dsa/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vikas9892/daily_dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Vikas9892/daily_dsa/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Vikas9892/daily_dsa/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Vikas9892/daily_dsa/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vikas9892/daily_dsa/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0494-target-sum) |
 ## Database
@@ -231,11 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Bit Manipulation
