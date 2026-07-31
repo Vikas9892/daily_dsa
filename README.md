@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Vikas9892/daily_dsa/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vikas9892/daily_dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Vikas9892/daily_dsa/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vikas9892/daily_dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Vikas9892/daily_dsa/tree/master/1288-remove-covered-intervals) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
