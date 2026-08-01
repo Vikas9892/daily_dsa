@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vikas9892/daily_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Vikas9892/daily_dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vikas9892/daily_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Vikas9892/daily_dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Vikas9892/daily_dsa/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Vikas9892/daily_dsa/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/Vikas9892/daily_dsa/tree/master/0486-predict-the-winner) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vikas9892/daily_dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Vikas9892/daily_dsa/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vikas9892/daily_dsa/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/Vikas9892/daily_dsa/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vikas9892/daily_dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
