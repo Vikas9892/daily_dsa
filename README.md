@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1288-remove-covered-intervals](https://github.com/Vikas9892/daily_dsa/tree/master/1288-remove-covered-intervals) |
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
+| [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/Vikas9892/daily_dsa/tree/master/1765-map-of-highest-peak) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
+| [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Vikas9892/daily_dsa/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Linked List
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Vikas9892/daily_dsa/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Vikas9892/daily_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/Vikas9892/daily_dsa/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vikas9892/daily_dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Vikas9892/daily_dsa/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -291,4 +294,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vikas9892/daily_dsa/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
