@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Vikas9892/daily_dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Vikas9892/daily_dsa/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vikas9892/daily_dsa/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1288-remove-covered-intervals](https://github.com/Vikas9892/daily_dsa/tree/master/1288-remove-covered-intervals) |
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
+| [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
 | [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/Vikas9892/daily_dsa/tree/master/1765-map-of-highest-peak) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
+| [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Vikas9892/daily_dsa/tree/master/1288-remove-covered-intervals) |
+| [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
