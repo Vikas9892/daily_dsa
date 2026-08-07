@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vikas9892/daily_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikas9892/daily_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
 | [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vikas9892/daily_dsa/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vikas9892/daily_dsa/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0142-linked-list-cycle-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vikas9892/daily_dsa/tree/master/1019-next-greater-node-in-linked-list) |
 ## Stack
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Vikas9892/daily_dsa/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vikas9892/daily_dsa/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0142-linked-list-cycle-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vikas9892/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
