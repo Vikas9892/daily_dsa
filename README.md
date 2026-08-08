@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vikas9892/daily_dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3597-partition-string](https://github.com/Vikas9892/daily_dsa/tree/master/3597-partition-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Vikas9892/daily_dsa/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
 | [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Vikas9892/daily_dsa/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Linked List
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vikas9892/daily_dsa/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0142-linked-list-cycle-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
 | ------- |
