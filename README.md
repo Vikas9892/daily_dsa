@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
 | [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/Vikas9892/daily_dsa/tree/master/1765-map-of-highest-peak) |
+| [2560-house-robber-iv](https://github.com/Vikas9892/daily_dsa/tree/master/2560-house-robber-iv) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Vikas9892/daily_dsa/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Vikas9892/daily_dsa/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [2560-house-robber-iv](https://github.com/Vikas9892/daily_dsa/tree/master/2560-house-robber-iv) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikas9892/daily_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
 | [1140-stone-game-ii](https://github.com/Vikas9892/daily_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
+| [2560-house-robber-iv](https://github.com/Vikas9892/daily_dsa/tree/master/2560-house-robber-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Vikas9892/daily_dsa/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Linked List
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vikas9892/daily_dsa/tree/master/0074-search-a-2d-matrix) |
+| [2560-house-robber-iv](https://github.com/Vikas9892/daily_dsa/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vikas9892/daily_dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
