@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Vikas9892/daily_dsa/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Vikas9892/daily_dsa/tree/master/0037-sudoku-solver) |
 | [0068-text-justification](https://github.com/Vikas9892/daily_dsa/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Vikas9892/daily_dsa/tree/master/0074-search-a-2d-matrix) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Vikas9892/daily_dsa/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Vikas9892/daily_dsa/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vikas9892/daily_dsa/tree/master/0086-partition-list) |
