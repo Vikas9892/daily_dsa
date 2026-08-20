@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vikas9892/daily_dsa/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vikas9892/daily_dsa/tree/master/1019-next-greater-node-in-linked-list) |
 ## Stack
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0785-is-graph-bipartite](https://github.com/Vikas9892/daily_dsa/tree/master/0785-is-graph-bipartite) |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -235,12 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0785-is-graph-bipartite](https://github.com/Vikas9892/daily_dsa/tree/master/0785-is-graph-bipartite) |
 | [1034-coloring-a-border](https://github.com/Vikas9892/daily_dsa/tree/master/1034-coloring-a-border) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vikas9892/daily_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vikas9892/daily_dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
