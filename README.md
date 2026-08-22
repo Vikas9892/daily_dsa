@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Vikas9892/daily_dsa/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Vikas9892/daily_dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0132-palindrome-partitioning-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vikas9892/daily_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Vikas9892/daily_dsa/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikas9892/daily_dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Vikas9892/daily_dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vikas9892/daily_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
