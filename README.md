@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vikas9892/daily_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Vikas9892/daily_dsa/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vikas9892/daily_dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vikas9892/daily_dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/Vikas9892/daily_dsa/tree/master/1366-rank-teams-by-votes) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Vikas9892/daily_dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vikas9892/daily_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
 | [1140-stone-game-ii](https://github.com/Vikas9892/daily_dsa/tree/master/1140-stone-game-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vikas9892/daily_dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Vikas9892/daily_dsa/tree/master/1406-stone-game-iii) |
 | [2560-house-robber-iv](https://github.com/Vikas9892/daily_dsa/tree/master/2560-house-robber-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vikas9892/daily_dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
