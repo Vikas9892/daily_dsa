@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vikas9892/daily_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vikas9892/daily_dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Vikas9892/daily_dsa/tree/master/0146-lru-cache) |
 | [0523-continuous-subarray-sum](https://github.com/Vikas9892/daily_dsa/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/Vikas9892/daily_dsa/tree/master/0740-delete-and-earn) |
 | [0846-hand-of-straights](https://github.com/Vikas9892/daily_dsa/tree/master/0846-hand-of-straights) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vikas9892/daily_dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikas9892/daily_dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Vikas9892/daily_dsa/tree/master/0146-lru-cache) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vikas9892/daily_dsa/tree/master/1019-next-greater-node-in-linked-list) |
 ## Stack
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Vikas9892/daily_dsa/tree/master/0146-lru-cache) |
 | [1357-apply-discount-every-n-orders](https://github.com/Vikas9892/daily_dsa/tree/master/1357-apply-discount-every-n-orders) |
 ## Trie
 |  |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Vikas9892/daily_dsa/tree/master/0583-delete-operation-for-two-strings) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vikas9892/daily_dsa/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
